@@ -1,9 +1,9 @@
 # frozen_string_literal: true
 
-# name: discourse-plugin-name
-# about: TODO
+# name: basic-plugin
+# about: A super simple plugin to demonstrate how plugins work
 # version: 0.0.1
-# authors: Discourse
+# authors: Awesome Plugin Developer
 # url: TODO
 # required_version: 2.7.0
 # transpile_js: true
